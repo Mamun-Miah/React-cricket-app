@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Sora:wght@100..800&display=swap');
+
+main {
+  max-width: 95%;
+  margin: 0 auto;
+  padding: 0 2rem 2rem 2rem;
+}
+
+header {
+  max-width: 95%;
+  margin: 0 auto;
+  padding: 2rem;
+}
